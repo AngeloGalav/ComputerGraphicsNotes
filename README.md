@@ -5,7 +5,7 @@ NOTA: Questi appunti non sono ancora conclusi! Lo saranno una volta il corso sar
 
 ## Cos'è?
 
-È una raccolta di appunti delle lezioni del corso di Computer Grafica tenuto dalla prof. Lazzaro all'UniBo (campus Cesena). Questi appunti sono stati scritti riguardando le lezioni una ad una nel corso del semestre (:rage1:). Contengono le parti di matematica per la computer grafica e le informazioni su OpenGL, assieme alla matematica delle curve (utili per gli SVG).
+È una raccolta di appunti delle lezioni del corso di Computer Grafica tenuto dalla prof. Lazzaro all'UniBo (campus Cesena). Questi appunti sono stati scritti riguardando le lezioni una ad una nel corso del semestre (:rage1:). Contengono le parti di matematica per la computer grafica e le informazioni su OpenGL, assieme alla matematica delle curve (utili per gli SVG), shading e tutte quelle cose lì.
 Penso anche di inserire una mini-guida a Blender nel futuro.
 
 ## Come posso contribuire? 
