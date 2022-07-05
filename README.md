@@ -8,6 +8,8 @@ NOTA: Questi appunti non sono ancora conclusi! Lo saranno una volta il corso sar
 È una raccolta di appunti delle lezioni del corso di Computer Grafica tenuto dalla prof. Lazzaro all'UniBo (campus Cesena). Questi appunti sono stati scritti riguardando le lezioni una ad una nel corso del semestre (:rage1:). Contengono le parti di matematica per la computer grafica e le informazioni su OpenGL, assieme alla matematica delle curve (utili per gli SVG), shading, raytracing (RTX On) e tutte quelle cose lì.
 Penso anche di inserire una mini-guida a Blender nel futuro.
 
+Mancano solo gli approfondimenti sulle Texture (parzialmente) e sulle Mesh poligonali, che comunque non sono necessarie per l'interrogazione.  
+
 ## Come posso contribuire? 
 
 Beh puoi sempre fare una fork con una pull request, oppure puoi avvisarmi di alcuni errori che ho fatto o altri accorgimenti contattandomi personalmente.
